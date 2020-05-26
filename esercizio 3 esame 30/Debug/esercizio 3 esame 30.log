@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\eros\source\repos\esercizio 3 esame 30\main.c(11): warning C4013: 'malloc' non definita. Verrà considerata come esterna che restituisce un int.
+c:\users\eros\source\repos\esercizio 3 esame 30\main.c(11): warning C4047: 'inizializzazione': 'int *' differisce da 'int' nei livelli di riferimento indiretto
+  esercizio 3 esame 30.vcxproj -> C:\Users\Eros\source\repos\esercizio 3 esame 30\Debug\esercizio 3 esame 30.exe

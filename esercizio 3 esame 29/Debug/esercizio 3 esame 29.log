@@ -1,0 +1,4 @@
+﻿  matrix.c
+c:\users\eros\source\repos\esercizio 3 esame 29\matrix.c(16): warning C4013: 'memcpy' non definita. Verrà considerata come esterna che restituisce un int.
+c:\users\eros\source\repos\esercizio 3 esame 29\matrix.c(18): warning C4018: '<': errata corrispondenza tra signed e unsigned
+  esercizio 3 esame 29.vcxproj -> C:\Users\Eros\source\repos\esercizio 3 esame 29\Debug\esercizio 3 esame 29.exe
