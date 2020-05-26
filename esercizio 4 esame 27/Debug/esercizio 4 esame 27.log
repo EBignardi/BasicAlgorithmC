@@ -1,0 +1,8 @@
+﻿  matrix.c
+c:\users\eros\source\repos\esercizio 4 esame 27\matrix.c(18): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\eros\source\repos\esercizio 4 esame 27\matrix.c(26): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\eros\source\repos\esercizio 4 esame 27\matrix.c(32): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\eros\source\repos\esercizio 4 esame 27\matrix.c(34): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\eros\source\repos\esercizio 4 esame 27\matrix.c(36): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\eros\source\repos\esercizio 4 esame 27\matrix.c(38): warning C4018: '<': errata corrispondenza tra signed e unsigned
+  esercizio 4 esame 27.vcxproj -> C:\Users\Eros\source\repos\esercizio 4 esame 27\Debug\esercizio 4 esame 27.exe
