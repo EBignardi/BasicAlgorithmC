@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\eros\source\repos\esercizio 1 esame 28\main.c(20): warning C4244: '+=': conversione da 'double' a '::size_t'. Possibile perdita di dati.
+  esercizio 1 esame 28.vcxproj -> C:\Users\Eros\source\repos\esercizio 1 esame 28\Debug\esercizio 1 esame 28.exe

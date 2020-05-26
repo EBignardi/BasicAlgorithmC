@@ -1,0 +1,8 @@
+﻿  insert.c
+c:\users\eros\source\repos\esame 28 esercizio 4a\insert.c(11): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\eros\source\repos\esame 28 esercizio 4a\insert.c(17): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\eros\source\repos\esame 28 esercizio 4a\insert.c(25): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\eros\source\repos\esame 28 esercizio 4a\insert.c(28): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\eros\source\repos\esame 28 esercizio 4a\insert.c(31): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\eros\source\repos\esame 28 esercizio 4a\insert.c(31): warning C4552: '+': l'operatore non ha effetto. Previsto operatore con effetto collaterale.
+  esame 28 esercizio 4a.vcxproj -> C:\Users\Eros\source\repos\esame 28 esercizio 4a\Debug\esame 28 esercizio 4a.exe
