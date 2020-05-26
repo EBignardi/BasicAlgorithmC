@@ -1,0 +1,14 @@
+﻿  main.c
+c:\users\eros\source\repos\esercizio 5 esame 30\main.c(4): warning C4098: 'path_split': la funzione 'void' restituisce un valore
+c:\users\eros\source\repos\esercizio 5 esame 30\main.c(9): error C2143: errore di sintassi: ';' mancante prima di '{'
+c:\users\eros\source\repos\esercizio 5 esame 30\main.c(11): warning C4129: 'e': sequenza di caratteri di escape sconosciuta
+c:\users\eros\source\repos\esercizio 5 esame 30\main.c(11): warning C4129: 'F': sequenza di caratteri di escape sconosciuta
+c:\users\eros\source\repos\esercizio 5 esame 30\main.c(4): fatal error C1075: '<Sconosciuto>': non sono stati trovati token corrispondenti
+  main2.c
+c:\users\eros\source\repos\esercizio 5 esame 30\main2.c(4): warning C4098: 'path_split': la funzione 'void' restituisce un valore
+c:\users\eros\source\repos\esercizio 5 esame 30\main2.c(9): error C2143: errore di sintassi: ';' mancante prima di '{'
+c:\users\eros\source\repos\esercizio 5 esame 30\main2.c(11): warning C4129: 'e': sequenza di caratteri di escape sconosciuta
+c:\users\eros\source\repos\esercizio 5 esame 30\main2.c(11): warning C4129: 'F': sequenza di caratteri di escape sconosciuta
+  ERRORE INTERNO DEL COMPILATORE in 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.13.26128\bin\HostX86\x86\CL.exe'
+      Per altre informazioni, scegliere Supporto tecnico dal menu ? di Visual C++
+     o aprire il file della Guida relativo al supporto tecnico
