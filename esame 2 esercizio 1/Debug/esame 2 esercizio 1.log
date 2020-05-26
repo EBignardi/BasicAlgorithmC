@@ -1,0 +1,7 @@
+﻿  main.c
+c:\users\eros\source\repos\esame 2 esercizio 1\main.c(9): warning C4090: 'funzione': qualificatori 'const' differenti
+c:\users\eros\source\repos\esame 2 esercizio 1\main.c(18): warning C4047: 'funzione': 'const char *' differisce da 'char (*)[6]' nei livelli di riferimento indiretto
+c:\users\eros\source\repos\esame 2 esercizio 1\main.c(18): warning C4024: 'concatena': tipi diversi tra il parametro 1 formale e quello effettivo
+c:\users\eros\source\repos\esame 2 esercizio 1\main.c(18): warning C4047: 'funzione': 'const char *' differisce da 'char (*)[5]' nei livelli di riferimento indiretto
+c:\users\eros\source\repos\esame 2 esercizio 1\main.c(18): warning C4024: 'concatena': tipi diversi tra il parametro 2 formale e quello effettivo
+  esame 2 esercizio 1.vcxproj -> C:\Users\Eros\source\repos\esame 2 esercizio 1\Debug\esame 2 esercizio 1.exe

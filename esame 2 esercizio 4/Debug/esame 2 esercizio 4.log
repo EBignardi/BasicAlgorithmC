@@ -1,0 +1,6 @@
+﻿  main.c
+c:\users\eros\source\repos\esame 2 esercizio 4\main.c(22): warning C4047: 'return': 'dato *' differisce da 'dato **' nei livelli di riferimento indiretto
+c:\users\eros\source\repos\esame 2 esercizio 4\main.c(16): warning C4477: 'fscanf': con la stringa di formato '%f' è necessario un argomento di tipo 'float *', ma il tipo dell'argomento variadic 1 è 'double *'
+  c:\users\eros\source\repos\esame 2 esercizio 4\main.c(16): note: provare a usare '%lf' nella stringa di formato
+c:\users\eros\source\repos\esame 2 esercizio 4\main.c(22): warning C4172: verrà restituito l'indirizzo del valore : dati_letti temporaneo o della variabile locale
+  esame 2 esercizio 4.vcxproj -> C:\Users\Eros\source\repos\esame 2 esercizio 4\Debug\esame 2 esercizio 4.exe
