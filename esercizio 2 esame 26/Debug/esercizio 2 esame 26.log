@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\eros\source\repos\esercizio 2 esame 26\main.c(28): warning C4047: 'funzione': 'int' differisce da 'char [2]' nei livelli di riferimento indiretto
+c:\users\eros\source\repos\esercizio 2 esame 26\main.c(28): warning C4024: 'putc': tipi diversi tra il parametro 1 formale e quello effettivo
+  esercizio 2 esame 26.vcxproj -> C:\Users\Eros\source\repos\esercizio 2 esame 26\Debug\esercizio 2 esame 26.exe
